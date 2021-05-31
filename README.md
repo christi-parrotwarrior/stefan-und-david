@@ -1,3 +1,3 @@
-# projects made in free time
+# projects we copied from stack-overflow
 
 made in python, c++, javascript etc..
